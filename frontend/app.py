@@ -81,7 +81,7 @@ response_type = st.radio(
 
 query = st.text_input(
     "Your question",
-    placeholder="    placeholder="e.g., What is the cancellation policy?""
+    placeholder="e.g., What is the cancellation policy?"
 )
 
 
